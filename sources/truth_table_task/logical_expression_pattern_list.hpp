@@ -1,0 +1,30 @@
+#include "truth_table_task/logical_expression.hpp"
+#include "truth_table_task/logical_expression_command.hpp"
+
+#define COMMAND LogicalExpression::Command
+
+std::vector<std::vector<COMMAND>> LogicalExpression::pattern_command_list = {
+    {COMMAND::CR_4_VAR, COMMAND::ADD_EXPRESSION, COMMAND::ADD_OPERATOR,
+     COMMAND::ADD_EXPRESSION, COMMAND::ADD_OPERATOR, COMMAND::ADD_EXPRESSION},
+ //(...) * (...) * (...) #4
+
+    {COMMAND::CR_4_VAR, COMMAND::ADD_LETTER, COMMAND::ADD_OPERATOR,
+     COMMAND::ADD_LETTER, COMMAND::ADD_OPERATOR, COMMAND::ADD_LETTER,
+     COMMAND::ADD_OPERATOR, COMMAND::ADD_LETTER, COMMAND::ADD_OPERATOR,
+     COMMAND::ADD_LETTER},
+ //  letter * letter * letter * letter * letter #4
+
+    {COMMAND::CR_4_VAR, COMMAND::OPEN_BRACKETS, COMMAND::ADD_EXPRESSION,
+     COMMAND::ADD_OPERATOR, COMMAND::ADD_LETTER, COMMAND::CLOSE_BRACKETS,
+     COMMAND::ADD_OPERATOR, COMMAND::ADD_LETTER},
+ //((...) * letter) * letter #4
+
+    {COMMAND::CR_3_VAR, COMMAND::ADD_EXPRESSION, COMMAND::ADD_OPERATOR,
+     COMMAND::ADD_EXPRESSION},
+ //(...) * (...) #3
+
+    {COMMAND::CR_3_VAR, COMMAND::ADD_EXPRESSION, COMMAND::ADD_OPERATOR,
+     COMMAND::ADD_EXPRESSION, COMMAND::ADD_OPERATOR, COMMAND::ADD_LETTER,
+     COMMAND::ADD_OPERATOR, COMMAND::ADD_LETTER}
+  //(...) * (...) * letter * letter #3
+};

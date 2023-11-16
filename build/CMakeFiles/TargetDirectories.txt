@@ -1,0 +1,3 @@
+C:/Users/arsbo/source/repos/task_generator/build/CMakeFiles/Triangle.dir
+C:/Users/arsbo/source/repos/task_generator/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/arsbo/source/repos/task_generator/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\arsbo\source\repos\task_generator\build\CMakeFiles\7e6f904d31600e4a6743e0cf2330a357\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\cmake_scripts\add_sources.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\cmake_scripts\check_file.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\cmake_scripts\cmake_scripts.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\cmake_scripts\download_archive.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\cmake_scripts\prepare_file.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\cmake_scripts\prepare_lib.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\encoding_and_decoding_task_sources.cmake">
+      <Filter>Buildsystem Input Files\sources\encoding_and_decoding_task</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\sources\generator\generator_sources.cmake">
+      <Filter>Buildsystem Input Files\sources\generator</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph_task_sources.cmake">
+      <Filter>Buildsystem Input Files\sources\graph_task</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\sources\sources.cmake">
+      <Filter>Buildsystem Input Files\sources</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\sources\task\task_sources.cmake">
+      <Filter>Buildsystem Input Files\sources\task</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\task_generator\sources\truth_table_task\truth_table_task_sources.cmake">
+      <Filter>Buildsystem Input Files\sources\truth_table_task</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7AC722C0-DFE7-3F08-B142-6849D9C1FBB3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\cmake_scripts">
+      <UniqueIdentifier>{310443BB-BE37-381C-A06E-FC84FA31DC4B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sources">
+      <UniqueIdentifier>{B45E048E-1DC6-35BE-97ED-8B605AAD4484}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sources\encoding_and_decoding_task">
+      <UniqueIdentifier>{EAAA2839-7E3A-3A8B-A58A-DBD9BF992D86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sources\generator">
+      <UniqueIdentifier>{504C84A8-D8F1-35CE-8CF0-98E7B7950BF9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sources\graph_task">
+      <UniqueIdentifier>{B7DDB42F-4C35-3276-BC58-833183411D83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sources\task">
+      <UniqueIdentifier>{DA5BC776-6E45-3A30-87A7-8726AC34C8C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sources\truth_table_task">
+      <UniqueIdentifier>{45A5AA9F-1D89-3397-BEF6-8BD09B2F7B6E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

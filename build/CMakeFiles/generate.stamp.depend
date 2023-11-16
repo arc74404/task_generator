@@ -1,0 +1,37 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake
+C:/Users/arsbo/source/repos/task_generator/CMakeLists.txt
+C:/Users/arsbo/source/repos/task_generator/build/CMakeFiles/3.27.0-rc4/CMakeCCompiler.cmake
+C:/Users/arsbo/source/repos/task_generator/build/CMakeFiles/3.27.0-rc4/CMakeCXXCompiler.cmake
+C:/Users/arsbo/source/repos/task_generator/build/CMakeFiles/3.27.0-rc4/CMakeRCCompiler.cmake
+C:/Users/arsbo/source/repos/task_generator/build/CMakeFiles/3.27.0-rc4/CMakeSystem.cmake
+C:/Users/arsbo/source/repos/task_generator/cmake_scripts/add_sources.cmake
+C:/Users/arsbo/source/repos/task_generator/cmake_scripts/check_file.cmake
+C:/Users/arsbo/source/repos/task_generator/cmake_scripts/cmake_scripts.cmake
+C:/Users/arsbo/source/repos/task_generator/cmake_scripts/download_archive.cmake
+C:/Users/arsbo/source/repos/task_generator/cmake_scripts/prepare_file.cmake
+C:/Users/arsbo/source/repos/task_generator/cmake_scripts/prepare_lib.cmake
+C:/Users/arsbo/source/repos/task_generator/sources/encoding_and_decoding_task/encoding_and_decoding_task_sources.cmake
+C:/Users/arsbo/source/repos/task_generator/sources/generator/generator_sources.cmake
+C:/Users/arsbo/source/repos/task_generator/sources/graph_task/graph_task_sources.cmake
+C:/Users/arsbo/source/repos/task_generator/sources/sources.cmake
+C:/Users/arsbo/source/repos/task_generator/sources/task/task_sources.cmake
+C:/Users/arsbo/source/repos/task_generator/sources/truth_table_task/truth_table_task_sources.cmake

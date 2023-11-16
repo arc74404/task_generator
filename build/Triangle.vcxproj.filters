@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\generator\generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\generator\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph_analysis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph_analysis_star.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph_analysis_default.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph_analysis_miss_road.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\vertex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\truth_table_task\building_logical_table_task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\truth_table_task\logical_expression.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\truth_table_task\logical_variable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\truth_table_task\logical_table.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\task\condition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\task\task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\encoding_information_task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\encoding_information_count_symbols_task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\encoding_information_task_minimal_code_task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\letter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\alphabet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\vocabulary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\transmission_information_task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\generator\generator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph_analysis.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph_analysis_star.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph_analysis_default.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph_analysis_miss_road.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph_analysis_type.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\graph.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\graph_task\vertex.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\truth_table_task\building_logical_table_task.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\truth_table_task\logical_expression.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\truth_table_task\logical_expression_command.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\truth_table_task\logical_expression_pattern_list.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\truth_table_task\logical_variable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\truth_table_task\logical_table.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\task\condition.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\task\task_type.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\task\task.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\encoding_information_task.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\encoding_information_count_symbols_task.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\encoding_information_task_minimal_code_task.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\letter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\alphabet.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\vocabulary.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\encoding_information_task_type.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\transmission_information_task.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\arsbo\source\repos\task_generator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B5F80598-C7A0-3B0D-8475-C09FB0493B27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F0B428D0-798A-3C03-AF16-7B7708410039}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

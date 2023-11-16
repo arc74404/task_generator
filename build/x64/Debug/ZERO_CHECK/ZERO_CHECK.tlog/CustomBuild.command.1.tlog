@@ -1,0 +1,10 @@
+^C:\USERS\ARSBO\SOURCE\REPOS\TASK_GENERATOR\BUILD\CMAKEFILES\7E6F904D31600E4A6743E0CF2330A357\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/arsbo/source/repos/task_generator -BC:/Users/arsbo/source/repos/task_generator/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/arsbo/source/repos/task_generator/build/Triangle.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
