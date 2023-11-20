@@ -64,6 +64,15 @@
     <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\transmission_information_task.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\audio_file_data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\file_data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\transmission_information_modified_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\generator\generator.hpp">
@@ -139,6 +148,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\transmission_information_task.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\audio_file_data.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\file_data.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\transmission_information_modified_file.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

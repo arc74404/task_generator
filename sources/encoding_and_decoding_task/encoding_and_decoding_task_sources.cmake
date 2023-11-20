@@ -25,4 +25,15 @@ set(
 	transmission/transmission_information_task.hpp
 	transmission/transmission_information_task.cpp
 
+	transmission/audio_file_data.hpp
+	transmission/audio_file_data.cpp
+
+	transmission/file_data.hpp
+	transmission/file_data.cpp
+
+	transmission/transmission_information_task.hpp
+
+	transmission/transmission_information_modified_file.hpp
+	transmission/transmission_information_modified_file.cpp
+
 )

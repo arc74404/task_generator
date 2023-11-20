@@ -19,3 +19,6 @@ C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\ph
 C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\alphabet.cpp;C:\Users\arsbo\source\repos\task_generator\build\Triangle.dir\Debug\alphabet.obj
 C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\phono_codes\vocabulary.cpp;C:\Users\arsbo\source\repos\task_generator\build\Triangle.dir\Debug\vocabulary.obj
 C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\transmission_information_task.cpp;C:\Users\arsbo\source\repos\task_generator\build\Triangle.dir\Debug\transmission_information_task.obj
+C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\audio_file_data.cpp;C:\Users\arsbo\source\repos\task_generator\build\Triangle.dir\Debug\audio_file_data.obj
+C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\file_data.cpp;C:\Users\arsbo\source\repos\task_generator\build\Triangle.dir\Debug\file_data.obj
+C:\Users\arsbo\source\repos\task_generator\sources\encoding_and_decoding_task\transmission\transmission_information_modified_file.cpp;C:\Users\arsbo\source\repos\task_generator\build\Triangle.dir\Debug\transmission_information_modified_file.obj

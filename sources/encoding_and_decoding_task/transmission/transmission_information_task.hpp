@@ -9,7 +9,6 @@ public:
     enum class TransmissionInformationTaskType;
 
 protected:
-    std::string m_word;
 
     TransmissionInformationTaskType m_transmission_information_task_type;
 
@@ -18,7 +17,7 @@ protected:
 public:
     TransmissionInformationTask(TransmissionInformationTaskType t);
 
-    virtual void print() override;
+    void print() override;
 
     void generate() override;
 };
